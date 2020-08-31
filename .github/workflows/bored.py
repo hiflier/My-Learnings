@@ -2,7 +2,7 @@ from google.cloud import pubsub_v1
 import requests
 import time
  
-project_name = 'tim-acloud-guru'
+project_name = 'learninggcp'
 topic_name = 'LabTopic'
 api = 'https://www.boredapi.com/api/activity/'
  
